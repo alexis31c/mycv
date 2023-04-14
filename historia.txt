@@ -2,6 +2,4 @@ Esta es la historia de como me converti en desarrollador de software a la edad d
 
 Actualmente mi tecnologia principal es .NET y Azure.
 
-Tambien soy un especialista en Python.
-
 Mi nombre es Alexis Cordero.
