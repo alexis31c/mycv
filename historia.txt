@@ -2,4 +2,6 @@ Esta es la historia de como me converti en desarrollador de software a la edad d
 
 Actualmente mi tecnologia principal es .NET y Azure.
 
+Su plan  es aprender las bases de un buen desarrollador de software.
+
 Mi nombre es Alexis Cordero.
